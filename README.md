@@ -1,3 +1,3 @@
 ## Learning to Weight Parameters for Training Data Attribution
 
-We will release our full code/data soon!
+Unfortunately, we are struggling with the Neurips deadline right now. We will release our full code/data soon!
